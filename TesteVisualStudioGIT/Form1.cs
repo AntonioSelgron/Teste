@@ -15,6 +15,7 @@ namespace TesteVisualStudioGIT
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Eu mudei alguma coisa!");
         }
     }
 }
